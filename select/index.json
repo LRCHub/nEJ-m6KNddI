@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Neru - 脱獄(Jailbreak) feat. Kagamine Rin",
+  "base_artist": "Neru",
+  "createdAt": "2025-12-20T12:24:37.526514Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Neru - ロストワンの号哭(Lost One's Weeping) feat. Kagamine Rin",
+      "artist": "Neru",
+      "has_synced": false,
+      "path": "select/01_Neru_-_ロストワンの号哭(Lost_One's_Weeping)_feat._Kagamine_Rin_Neru.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "い~やい~やい~や (Neru Remix)",
+      "artist": "Neru",
+      "has_synced": true,
+      "path": "select/02_い~やい~やい~や_(Neru_Remix)_Neru.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Neru Aji Tuk",
+      "artist": "Meghali Borokha feat. Chinmoy Kaushik & Joy Nirvan",
+      "has_synced": true,
+      "path": "select/03_Neru_Aji_Tuk_Meghali_Borokha_feat._Chinmoy_Kaushik_&_Joy_Nirvan.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Neru Aji Tuk",
+      "artist": "Meghali Borokha,Chinmoy Kaushik,Joy Nirvan",
+      "has_synced": true,
+      "path": "select/04_Neru_Aji_Tuk_Meghali_Borokha,Chinmoy_Kaushik,Joy_Nirvan.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "tokyo teddy bear - neru ft kagamine rin",
+      "artist": "undefined",
+      "has_synced": true,
+      "path": "select/05_tokyo_teddy_bear_-_neru_ft_kagamine_rin_undefined.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "東京テディベア (Tokyo Teddy Bear) (Neru cover)",
+      "artist": "鬱P (UtsuP) feat. Kagamine Rin",
+      "has_synced": true,
+      "path": "select/06_東京テディベア_(Tokyo_Teddy_Bear)_(Neru_cover)_鬱P_(UtsuP)_feat._Kagamine_Rin.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ゴチャゴチャうるせー！ (feat. Akita Neru)",
+      "artist": "OWATAP",
+      "has_synced": true,
+      "path": "select/07_ゴチャゴチャうるせー!_(feat._Akita_Neru)_OWATAP.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Neru Aji Tuk",
+      "artist": "Meghali Borokha",
+      "has_synced": true,
+      "path": "select/08_Neru_Aji_Tuk_Meghali_Borokha.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Mulher Mata (feat. Nerú Americano)",
+      "artist": "TRX Music",
+      "has_synced": true,
+      "path": "select/09_Mulher_Mata_(feat._Nerú_Americano)_TRX_Music.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "東京テディベア (Tokyo Teddy Bear) (Neru cover)",
+      "artist": "Utsu-P",
+      "has_synced": true,
+      "path": "select/10_東京テディベア_(Tokyo_Teddy_Bear)_(Neru_cover)_Utsu-P.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "AroundThaWRLD (LaLaLa) (feat. Neru)",
+      "artist": "Hatsune Miku",
+      "has_synced": false,
+      "path": "select/11_AroundThaWRLD_(LaLaLa)_(feat._Neru)_Hatsune_Miku.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "AroundThaWRLD (LaLaLa) (feat. Neru)",
+      "artist": "Hatsune Miku",
+      "has_synced": true,
+      "path": "select/12_AroundThaWRLD_(LaLaLa)_(feat._Neru)_Hatsune_Miku.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "AroundThaWRLD (LaLaLa) (feat. Neru)",
+      "artist": "Hatsune Miku, AMU Henry Smalls",
+      "has_synced": true,
+      "path": "select/13_AroundThaWRLD_(LaLaLa)_(feat._Neru)_Hatsune_Miku,_AMU_Henry_Smalls.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "AroundThaWRLD (LaLaLa) (feat. Neru) (CD Extend)",
+      "artist": "Hatsune Miku, AMU Henry Smalls, DJ RdottyBoom",
+      "has_synced": true,
+      "path": "select/14_AroundThaWRLD_(LaLaLa)_(feat._Neru)_(CD_Extend)_Hatsune_Miku,_AMU_Henry_Smalls,_DJ_RdottyBoom.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "AroundThaWRLD (LaLaLa) (feat. Neru) (CD Extend)",
+      "artist": "Hatsune Miku",
+      "has_synced": false,
+      "path": "select/15_AroundThaWRLD_(LaLaLa)_(feat._Neru)_(CD_Extend)_Hatsune_Miku.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "AroundThaWRLD (LaLaLa) (feat. Neru) (CD Extend)",
+      "artist": "Hatsune Miku",
+      "has_synced": true,
+      "path": "select/16_AroundThaWRLD_(LaLaLa)_(feat._Neru)_(CD_Extend)_Hatsune_Miku.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "脱獄",
+      "artist": "Neru",
+      "has_synced": false,
+      "path": "select/pl_01_脱獄_Neru.txt"
+    }
+  ]
+}
